@@ -34,5 +34,3 @@ Each repository treats a production observability problem as a measurable resear
 **[telemetry-anomaly-triage-copilot](https://github.com/julianodutraa/telemetry-anomaly-triage-copilot-2026-09-09)**: RAG and LLM-assisted root cause triage for correlated pipeline anomalies, combining STL and MAD statistical detection with a full offline evaluation harness on synthetic data.
 
 📍 Rio de Janeiro, Brazil · Remote
-
-![Juliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianodutraa&show_icons=true&count_private=true&theme=default) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julianodutraa&layout=compact&theme=default)
